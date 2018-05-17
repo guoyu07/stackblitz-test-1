@@ -1,0 +1,12 @@
+{
+  "name": "stackblitz-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "flat": true,
+  "license": "MIT",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.2",
+    "@stackblitz/sdk": "^1.2.0",
+    "@webcomponents/webcomponentsjs": "^2.0.0"
+  }
+}

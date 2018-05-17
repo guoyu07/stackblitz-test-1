@@ -1,0 +1,13 @@
+{
+  "title": "Observers are synchronous",
+  "description": "Polymer 3.0 code sample",
+  "files": [
+    "custom-element.js",
+    "index.html",
+    "index.js"
+  ],
+  "dependencies": {
+    "@polymer/polymer": "latest",
+    "@webcomponents/webcomponentsjs": "latest"
+  }
+}

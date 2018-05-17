@@ -1,0 +1,13 @@
+{
+  "npm": true,
+  "moduleResolution": "node",
+  "entrypoint": "index.html",
+  "shell": "stackblitz-test.js",
+  "sources": ["samples/**", "stackblitz-test.js", "package.json"],
+  "builds": [{
+    "preset": "uncompiled-unbundled"
+  }],
+  "extraDependencies": [
+    "node_modules/@webcomponents/webcomponentsjs/webcomponents-bundle.js"
+  ]
+}
